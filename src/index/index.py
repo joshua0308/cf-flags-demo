@@ -9,5 +9,5 @@ class Index(object):
       return True
 
   def uncovered(self):
-      return True
+      return False
 

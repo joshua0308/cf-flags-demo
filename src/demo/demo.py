@@ -1,6 +1,6 @@
 class Demo(object):
     def untested_function(self):
-        return True
+        return False
 
     def tested_function(self):
         return True
